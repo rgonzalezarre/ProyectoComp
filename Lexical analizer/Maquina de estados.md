@@ -1,4 +1,5 @@
 ()->()->
+
 TOKENS
 Keyword: if,else,print
 
