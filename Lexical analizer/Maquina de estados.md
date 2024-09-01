@@ -1,13 +1,13 @@
 ()->()->
 TOKENS
-Keyword: if,else, int,
+Keyword: if,else,print
 
-Operator: =,
+Operator: =,+,-,*,**
 
-Identifier:
+Identifier: a-z, A-Z
 
 Constant: 0,1,2,3,4,5,6,7,8,9
 
-Literal: a-z, A-Z
+Literal: a-z, A-Z [Empieza con comillas]
 
-Punctuation:
+Punctuation: ; , { , }, (, )
