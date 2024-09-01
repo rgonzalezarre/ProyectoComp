@@ -2,7 +2,7 @@
 TOKENS
 Keyword: if,else,print
 
-Operator: =,+,-,*,**
+Operator: =,+,-,*,**,/
 
 Identifier: a-z, A-Z
 
